@@ -10,12 +10,15 @@ Built as part of an AI training program focused on real-world computer vision ap
 - Python  
 - TensorFlow / Keras  
 - OpenCV  
-- NumPy  
+- Pandas  
 - Streamlit  
 
 ---
+## 🔗 Download The Trained Model
+[Download Model File](https://drive.google.com/file/d/1Kec7m1qPjZsCJbXPC_XqZhN4-aNNies2/view)
 
 ## 📁 Project Structure
+
 
 ├── app.py  # Streamlit web app
 |
