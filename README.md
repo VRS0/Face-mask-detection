@@ -17,7 +17,10 @@ Built as part of an AI training program focused on real-world computer vision ap
 
 ## 📁 Project Structure
 
-├── app.py                        # Streamlit web app
+├── app.py  # Streamlit web app
+|
 ├── Face_mask_classifier_model.h5  # Trained CNN model (Not Included)
+|
 ├── requirements.txt             # Dependencies
+|
 └── README.md                    # Project overview
