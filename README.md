@@ -15,6 +15,7 @@ Built as part of an AI training program focused on real-world computer vision ap
 
 ---
 FaceMaskDetection/
+
 ├── app.py                          # Streamlit web app for mask detection
 
 ├── Face_mask_classifier_model.h5  # Trained VGG16 model (not included, use download link)
@@ -23,6 +24,7 @@ FaceMaskDetection/
 
 ├── README.md                      # Project documentation
 
+|__
 
 ## 🔗 Download The Trained Model
 [Download Model File](https://drive.google.com/file/d/1Kec7m1qPjZsCJbXPC_XqZhN4-aNNies2/view)
