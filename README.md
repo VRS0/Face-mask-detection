@@ -14,6 +14,7 @@ Built as part of an AI training program focused on real-world computer vision ap
 - Streamlit  
 
 ---
+# 📁 Project Structure
 FaceMaskDetection/
 
 ├── app.py                          # Streamlit web app for mask detection
