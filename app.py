@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing.image import img_to_array
 # Load model
 model = load_model("Face_mask_classifier_model.h5")
 
-# Title and Subtitle (Centered with style)
+# Title and Subtitle 
 st.markdown("""
     <div style='text-align: center;'>
         <h1 style='color:purple;'>~ Face Mask Detection 😷 ~</h1>
